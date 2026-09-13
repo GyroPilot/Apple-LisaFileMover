@@ -1,4 +1,4 @@
-# LISAFile
+# LisaFileMover
 
 A standalone file utility for the Apple Lisa Office System: a native LOS
 desktop tool that lists, copies, renames and deletes "invisible" files
@@ -42,4 +42,4 @@ See CHANGELOG.md once builds begin.
   Level 7 bus errors when the Filer copies the tool. Build icons with
   lisaicon.py from the LISACom kit.
 - Floppy masters are written on the 2/10, not the LisaFPGA, and named with
-  underscores and one period (for example LISAFILE_1_0.dc42).
+  underscores and one period (for example LISAFILEMOVER_1_0.dc42).

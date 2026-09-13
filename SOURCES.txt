@@ -1,4 +1,4 @@
-LISAFile -- Lisa Pascal sources (tool 419311)
+LisaFileMover -- Lisa Pascal sources (tool 419311)
 
 Nothing to build yet. When REV A lands:
 
@@ -7,7 +7,7 @@ sources/LFU-GLOBALS.TEXT   unit globals (menu constants, panes)
 sources/LFU-ALERTS.TEXT    alerts + menus (Alert tool input; menus match the
                            mi* constants in GLOBALS BY POSITION)
 sources/LFU-MAKE.TEXT      the Workshop exec: compile, link, Alert tool,
-                           InstallTool (tool 419311, name LISAFile)
+                           InstallTool (tool 419311, name LisaFileMover)
 sources/fmt_text.py        REQUIRED for building: converts each source to the
                            Workshop paged .TEXT format (1024-byte header page,
                            no line straddling a 1024 boundary, bare CR line
