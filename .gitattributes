@@ -1,0 +1,13 @@
+# Lisa Workshop paged sources use bare CR line endings; never normalize them.
+*.TEXT   -text
+*.text   -text
+*.dc42   binary
+*.image  binary
+*.PIX    binary
+*.PIC    binary
+*.PKG    binary
+*.OBJ    binary
+*.bin    binary
+*.py     text eol=lf
+*.md     text eol=lf
+*.txt    text eol=lf
